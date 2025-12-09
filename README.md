@@ -24,6 +24,9 @@ IPL Data Science Dashboard using Streamlit
 ### Home Page
 ![Home](images/home.png)
 
+### Home Page
+![Home](images/home.png)
+
 
 ### Bar Chart
 ![Bar Chart](images/bar_chart.png)

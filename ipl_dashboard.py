@@ -9,7 +9,7 @@ import plotly.express as px
 # -----------------------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_csv("ipl_batting_summary.csv")
+    df = pd.read_csv("./ipl_batting_summary.csv")
     return df
 
 df = load_data()
@@ -35,4 +35,5 @@ team = st.sidebar.selectbox("Select Team", ["All"] + list(teams))
 # Apply Filters
 # -----------------------------------------
 filtered_df = df.copy()
+
 

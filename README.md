@@ -22,7 +22,7 @@ IPL Data Science Dashboard using Streamlit
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home](images/home.png)
+![Home](Screenshot 2025-12-09 162946.png)
 
 ### Bar Chart
 ![Bar Chart](images/bar_chart.png)
@@ -42,6 +42,6 @@ IPL Data Science Dashboard using Streamlit
 
 ---
 
-## 🚀 How to Run Locally
+
 
 

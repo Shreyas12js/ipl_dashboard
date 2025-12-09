@@ -22,7 +22,8 @@ IPL Data Science Dashboard using Streamlit
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home](ipl_dashboard/images/home.png)
+![Home](images/home.png)
+
 
 
 
